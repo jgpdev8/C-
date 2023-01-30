@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\bin\Debug\netcoreapp3.1\PositivoOnegativo.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\PositivoOnegativo\PositivoOnegativo\obj\Debug\netcoreapp3.1\PositivoOnegativo.genruntimeconfig.cache
