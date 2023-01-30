@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\bin\Debug\netcoreapp3.1\CentigradoFarenhairt.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\CentigradoFarenhairt\CentigradoFarenhairt\obj\Debug\netcoreapp3.1\CentigradoFarenhairt.genruntimeconfig.cache
