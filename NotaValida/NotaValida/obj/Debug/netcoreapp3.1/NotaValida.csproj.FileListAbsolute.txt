@@ -1,0 +1,14 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\bin\Debug\netcoreapp3.1\NotaValida.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.csproj.AssemblyReference.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\NotaValida\NotaValida\obj\Debug\netcoreapp3.1\NotaValida.genruntimeconfig.cache
