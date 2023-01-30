@@ -1,0 +1,13 @@
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.exe
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.deps.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.runtimeconfig.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.runtimeconfig.dev.json
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\bin\Debug\netcoreapp3.1\ParOimpar.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.AssemblyInfoInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.AssemblyInfo.cs
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.csproj.CoreCompileInputs.cache
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.dll
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.pdb
+C:\Users\Milzo\Desktop\DAW\Programación\Condicionales\ParOimpar\ParOimpar\obj\Debug\netcoreapp3.1\ParOimpar.genruntimeconfig.cache
